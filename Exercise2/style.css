@@ -1,0 +1,60 @@
+main{
+	background-color: rgb(240, 245, 245);
+	font-family: Helvetica;
+	
+}
+
+.banner{
+	font-size: 16pt;
+	text-align: center;
+}
+
+.table{
+	border: 2px solid #000000;
+	padding: 20px;
+	display: inline-block;
+}
+
+.contentTable{
+	font-weight: bold;
+}
+
+.padding{
+	padding: 32px;
+}
+
+.amount{
+	font-size: 10pt;    
+}
+
+.step1{
+	padding-top: 20px;
+}
+
+.step2{
+	padding-top: 50px;
+}
+
+.step3{
+	padding-top: 50px;
+}
+
+.step4{
+	padding-top: 50px;
+}
+
+.step5{
+	padding-top: 50px;
+}
+
+.step6{
+	padding-top: 50px;
+}
+
+.step7{
+	padding-top: 50px;
+}
+
+.step8{
+	padding-top: 50px;
+}
