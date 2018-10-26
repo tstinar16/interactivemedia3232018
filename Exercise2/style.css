@@ -1,12 +1,17 @@
 main{
 	background-color: rgb(240, 245, 245);
 	font-family: Helvetica;
-	
 }
+
 
 .banner{
 	font-size: 16pt;
 	text-align: center;
+	background-color: #DBE9EE;
+ 	box-sizing: border-box;
+ 	padding: 30px;
+ 	
+ 	
 }
 
 .table{
@@ -57,4 +62,9 @@ main{
 
 .step8{
 	padding-top: 50px;
+
+}
+
+img {
+     border:25px solid #e0ebe6;
 }
