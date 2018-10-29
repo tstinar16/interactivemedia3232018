@@ -1,0 +1,118 @@
+main{
+	background-color: rgb(240, 245, 245);
+	font-family: Helvetica;
+}
+
+
+.banner{
+	font-size: 16pt;
+	text-align: center;
+	background-color: #DBE9EE;
+ 	box-sizing: border-box;
+ 	padding: 30px;
+ 	letter-spacing: 1px;
+ 		
+}
+
+.table{
+	border: 2.5px solid #000000;
+	padding: 20px;
+	display: inline-block;
+	position: fixed;
+	background-color: rgb(240, 245, 245);
+	right: 0;
+  	top: 55%;
+ 	margin-top: -2.5em;
+ 	font-size: 11pt;
+
+}
+
+.contentTable{
+	font-weight: bold;
+	font-size: 12pt;
+}
+
+.padding{
+	padding: 32px;
+}
+
+.amount{
+	font-size: 10pt; 
+	line-height: 0;
+}
+
+.Ingredients{
+	font-size: 18pt;
+}
+
+.step1{
+	padding-top: 20px;
+}
+
+.step2{
+	padding-top: 50px;
+}
+
+.step3{
+	padding-top: 50px;
+}
+
+.step4{
+	padding-top: 50px;
+}
+
+.step5{
+	padding-top: 50px;
+}
+
+.step6{
+	padding-top: 50px;
+}
+
+.step7{
+	padding-top: 50px;
+}
+
+.step8{
+	padding-top: 50px;
+
+}
+
+ 
+
+.image1{
+	 border:25px solid 	#cccccc;
+}
+
+.image2{
+	border:25px solid #e0c2b8;
+}
+
+.image3{
+	border:25px solid #b3cccc;
+}
+
+.image4{
+	border:25px solid #ffd9cc;
+}
+
+.image5{
+	border:25px solid #a3a3c2;
+}
+
+.image6{
+	border:25px solid #eedddd;
+}
+
+.image7{
+	border:25px solid #e0e0d1;
+}
+
+.image8{
+	border:25px solid #e6e6ff;
+}
+
+.footer{
+	font-size: 20pt;
+	text-indent: 80px;
+}
