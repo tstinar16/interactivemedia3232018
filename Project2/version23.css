@@ -1,0 +1,17 @@
+.one{
+    margin-top: 25px;
+    
+    font: 400 35px/0.8 'Great Vibes', Helvetica, sans-serif;
+    color: #ffb3b3;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+    animation-name: element;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+
+ }
+
+
+@keyframes element {
+    from { transform: translate(200px, 500px); }
+    
+}
