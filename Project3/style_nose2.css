@@ -1,0 +1,295 @@
+body{
+    background-color: #f2e6d9;
+}
+
+.main{
+    text-align: center;
+    font-family: OCR A Std, monospace;
+     font-size: 20pt;  
+     margin-top: 10%;
+     text-decoration: none;
+}
+
+.nose{
+    text-decoration: none;
+    font-size: 50pt;
+    float: right;
+    margin-right: 10%;
+    font-family: OCR A Std, monospace;
+}
+
+.one{
+    text-decoration: none;
+    position: absolute;
+    margin-top: 10%;
+}
+
+.two{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 30%;
+}
+
+.three{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: -10%;
+}
+
+.four{
+    margin-top: 20%;
+    margin-left: 60%; 
+    position: absolute;
+    text-decoration: none;
+
+}
+
+.hum1{
+    font-family: OCR A Std, monospace;
+    font-size: 40pt;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 40%;
+    text-decoration: none;
+    text-decoration: line-through;
+    color: #dea1a1;
+
+}
+
+.hum2{
+    font-family: OCR A Std, monospace;
+    font-size: 40pt;
+    position: absolute;
+    margin-top: -10%;
+    margin-left: 50%;
+    text-decoration: none;
+    text-decoration: line-through;
+    transform: rotate(20deg);
+        color: #dea1a1;
+}
+
+.hum3{
+    font-family: OCR A Std, monospace;
+    font-size: 40pt;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 10%;
+    text-decoration: none;
+    text-decoration: line-through;
+    transform: rotate(-10deg);
+    color: #dea1a1;
+}
+
+.hum4{
+    font-family: OCR A Std, monospace;
+    font-size: 40pt;
+    position: absolute;
+    margin-top: -8%;
+    margin-left: 40%;
+    text-decoration: none;
+    text-decoration: line-through;
+    transform: rotate(-10deg);
+    color: #dea1a1;
+}
+
+.hum5{
+    font-family: OCR A Std, monospace;
+    font-size: 40pt;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 65%;
+    text-decoration: none;
+    text-decoration: line-through;
+    color: #dea1a1;
+}
+.hum6{
+    font-family: OCR A Std, monospace;
+    font-size: 30pt;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 25%;
+    text-decoration: none;
+    text-decoration: line-through;
+    transform: rotate(20deg);
+    color: #dea1a1;
+}
+
+.hum7{
+    font-family: OCR A Std, monospace;
+    font-size: 40pt;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 10%;
+    text-decoration: none;
+    text-decoration: line-through;
+    transform: rotate(10deg);
+    color: #dea1a1;
+}
+
+.hum8{
+    font-family: OCR A Std, monospace;
+    font-size: 40pt;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 70%;
+    text-decoration: none;
+    text-decoration: line-through;
+    transform: rotate(-10deg);
+    color: #dea1a1;
+
+}
+
+.hum9{
+    font-family: OCR A Std, monospace;
+    font-size:20pt;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 65%;
+    text-decoration: none;
+    text-decoration: line-through;
+    color: #dea1a1;
+}
+
+.hum10{
+    font-family: OCR A Std, monospace;
+    font-size: 40pt;
+    position: absolute;
+    margin-top: -10%;
+    margin-left: 65%;
+    text-decoration: none;
+    text-decoration: line-through;
+    transform: rotate(-30deg);
+    color: #dea1a1;
+}
+
+.hum11{
+    font-family: OCR A Std, monospace;
+    font-size: 30pt;
+    position: absolute;
+    margin-top: -10%;
+    margin-left: 65%;
+    text-decoration: none;
+    text-decoration: line-through;
+    transform: rotate(-30deg);
+    color: #dea1a1;
+}
+
+.hum12{
+    font-family: OCR A Std, monospace;
+    font-size: 45pt;
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 20%;
+    text-decoration: none;
+    text-decoration: line-through;
+    transform: rotate(-30deg);
+    color: #dea1a1;
+}
+
+.hum13{
+    font-family: OCR A Std, monospace;
+    font-size: 45pt;
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 30%;
+    text-decoration: none;
+    text-decoration: line-through;
+    transform: rotate(30deg);
+    color: #dea1a1;
+}
+
+.hum14{
+    font-family: OCR A Std, monospace;
+    font-size: 20pt;
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 40%;
+    text-decoration: none;
+    text-decoration: line-through;
+    color: #dea1a1;
+}
+
+.hum15{
+    font-family: OCR A Std, monospace;
+    font-size: 45pt;
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 50%;
+    text-decoration: none;
+    text-decoration: line-through;
+    transform: rotate(-10deg);
+    color: #dea1a1;
+}
+
+.hum16{
+    font-family: OCR A Std, monospace;
+    font-size: 25pt;
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 15%;
+    text-decoration: none;
+    text-decoration: line-through;
+    transform: rotate(15deg);
+    color: #dea1a1;
+}
+
+.hum17{
+    font-family: OCR A Std, monospace;
+    font-size: 30pt;
+    position: absolute;
+    margin-top: -5%;
+    margin-left: 15%;
+    text-decoration: none;
+    text-decoration: line-through;
+    transform: rotate(15deg);
+    color: #dea1a1;
+}
+
+.hum18{
+    font-family: OCR A Std, monospace;
+    font-size: 30pt;
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 4%;
+    text-decoration: none;
+    text-decoration: line-through;
+    transform: rotate(-5deg);
+    color: #dea1a1;
+}
+
+.hum19{
+    font-family: OCR A Std, monospace;
+    font-size: 80pt;
+    position: absolute;
+    margin-top: 16%;
+    margin-left: 79%;
+    text-decoration: none;
+    text-decoration: line-through;
+    transform: rotate(-5deg);
+    color: #dea1a1;
+}
+
+.hum20{
+    font-family: OCR A Std, monospace;
+    font-size: 60pt;
+    position: absolute;
+    margin-top: 16%;
+    margin-left: 39%;
+    text-decoration: none;
+    text-decoration: line-through;
+    transform: rotate(8deg);
+    color: #dea1a1;
+}
+
+.no1{
+    font-family: OCR A Std, monospace;
+    font-size: 200pt;
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 35%;
+    text-decoration: none;
+    transform: rotate(6deg);
+    color: #98c0a0;
+}

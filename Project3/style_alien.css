@@ -1,0 +1,107 @@
+
+body{
+	background-color: #85adad;
+}
+
+.main{
+	text-align: center;
+	margin-top: 10%;
+	font-family: "Trebuchet MS";
+	font-size: 20pt;
+	color: #1f1414;
+}
+
+.moon{
+	text-decoration: none;
+	color: #ebe0e0;
+}
+
+.anime{
+	color: #a37575;
+	margin-top: 5%;
+	font-family: "Trebuchet MS";
+	font-size: 70pt;
+	letter-spacing: 15pt;
+
+}
+
+.L{ 
+	position: fixed;
+	text-decoration: none;
+	color: #94b8b8;
+	margin-left: 22%; 
+	-webkit-animation:spin 1s linear infinite;
+    -moz-animation:spin 1s linear infinite;
+    animation:spin 1s linear infinite;
+}
+
+.E{
+	position: fixed;
+	text-decoration: none;
+	color: #94b8b8;
+	margin-left: 35%;
+	-webkit-animation:spin 1s linear infinite;
+    -moz-animation:spin 1s linear infinite;
+    animation:spin 1s linear infinite;
+}
+
+.N{
+	position: fixed;
+	text-decoration: none;
+	color: #94b8b8;
+	margin-left: 48%;
+	-webkit-animation:spin 1s linear infinite;;
+    -moz-animation:spin 1s linear infinite;
+    animation:spin 1s linear infinite;
+}
+
+.A{
+	position: fixed;
+	text-decoration: none;
+	color: #94b8b8;
+	margin-left: 62%;
+	-webkit-animation:spin 1s linear infinite;
+    -moz-animation:spin 1s linear infinite;
+    animation:spin 1s linear infinite;
+}
+
+.I{
+	position: fixed;
+	text-decoration: none;
+	color: #94b8b8;
+	margin-left: 77%;
+	-webkit-animation:spin 1s linear infinite;
+    -moz-animation:spin 1s linear infinite;
+    animation:spin 1s linear infinite;
+}
+
+@-webkit-keyframes spin {
+		from {-webkit-transform: rotate(0deg);}
+		to {-webkit-transform: rotate(359deg);}
+		text-shadow: 
+}
+
+.a1{
+	position: fixed;
+	margin-left: 22%;
+}
+
+.l2{
+	position: fixed;
+	margin-left: 35%;
+}
+
+.i3{
+		position: fixed;
+	margin-left: 48%;
+}
+
+.e4{
+		position: fixed;
+	margin-left: 62%;
+}
+
+.n5{
+		position: fixed;
+	margin-left: 77%;
+}
