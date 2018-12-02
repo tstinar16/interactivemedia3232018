@@ -1,0 +1,32 @@
+body{
+    background-color: #a3c2c2;
+}
+
+.text1{
+    font-family: "Century Gothic";
+    font-size: 20pt;
+    text-align: center;
+    margin-top:8%;
+}
+
+.omg{
+    text-decoration: none;
+}
+
+.text2{
+    font-family: "Century Gothic";
+    font-size: 20pt;
+    text-align: center;
+    margin-top:25%;
+}
+
+img{
+    margin-left: 42%;
+    margin-top:-20%;
+    position: absolute;
+}
+
+.calm{
+    text-decoration: none;
+    color:white;
+}

@@ -1,0 +1,32 @@
+img{
+	position: fixed;
+		margin-top: -3%;
+	margin-left: 15%;
+}
+
+div{
+	margin-left: 30%;
+	margin-top: 10%;
+	text-align: center;
+	font-family: "Bookman Old Style";
+	font-size: 20pt;
+}
+
+body{
+	background-color: #85adad;
+}
+
+.knock{
+	text-decoration: none;
+	color: white;
+}
+
+.open{
+	font-family: "Bookman Old Style";
+	font-size: 30pt;
+	color: white;
+	transform: rotate(-13deg);
+	position: absolute;
+	margin-left: 25%;
+	text-decoration: none;
+}

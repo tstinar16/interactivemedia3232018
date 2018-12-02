@@ -1,0 +1,80 @@
+body{
+    background-color: #a9b8d6;
+}
+
+.are{
+    text-decoration: none;
+    color: black;
+}
+
+.text1{
+    font-family: OCR A Std, monospace;
+    font-size: 30pt;
+    margin-top: 5%;
+    text-shadow: 3px 4px#879bc5;
+}
+
+.text2{
+    font-family: OCR A Std, monospace;
+    font-size: 30pt;
+    margin-left: 20%;
+    margin-top: 2%;
+    text-shadow: 3px 4px#879bc5;
+}
+
+.corner{
+    text-decoration: none;
+    color: black;
+
+}
+
+.text3{
+    font-family: OCR A Std, monospace;
+    font-size: 30pt;
+    float: left;
+    margin-top: 29%;
+}
+
+.text4{
+    font-family: OCR A Std, monospace;
+    font-size: 30pt;
+    margin-left: 55%;
+    margin-top: 2%;
+    text-shadow: 3px 4px#879bc5;
+}
+
+.dots{
+    text-decoration: none;
+    color: black;
+}
+
+.text3_1{
+    font-family: OCR A Std, monospace;
+    font-size: 200pt;
+    text-align: center;
+    margin-top: 6%;
+    text-decoration: none;
+    color: #ac5353;
+    animation: blink-animation 0.5s steps(2, start) infinite;
+    -webkit-animation: blink-animation 0.5s steps(2, start) infinite;
+}
+
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+
+.degrees{
+    text-decoration: none;
+    color: #ac5353;
+}
+
+img{
+    margin-left: 70%;
+}

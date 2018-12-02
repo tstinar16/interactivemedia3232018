@@ -1,0 +1,24 @@
+
+div{
+	text-align: center;
+	margin-top: 6%;
+	font-family: "Verdana";
+	font-size: 14pt;
+	text-shadow: 2px 2px #d1e0e0;
+}
+
+
+img {
+	align-items: center;
+	margin-top:100pt;
+	position: absolute;
+
+	width: 100%;
+	float: left;
+}
+
+
+.click{
+	text-decoration: none;
+	color:#990000;
+}

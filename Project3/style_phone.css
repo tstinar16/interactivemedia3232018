@@ -1,0 +1,21 @@
+img{
+	position: absolute;
+	margin-left: 45%;
+	margin-top: 8%;
+}
+
+div{
+	text-align: center;
+	margin-top: 10%;
+	font-family: "Courier New";
+	font-size: 20pt;
+}
+
+body{
+	background-color: #677755;
+}
+
+.number{
+	text-decoration: none;
+	color:white;
+}

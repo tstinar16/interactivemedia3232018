@@ -1,0 +1,29 @@
+img{
+	position: fixed;
+	margin-top: -3%;
+	margin-left: 15%;
+}
+
+
+div{
+	margin-left: 20%;
+	margin-top: 10%;
+	font-size: 18pt;
+	text-align: center;
+	font-family: Blippo, fantasy;
+}
+
+body{
+	background-color: #dedad3;
+}
+
+.lock{
+	text-decoration: none;
+	color: #7f7666;
+}
+
+
+.it{
+	text-decoration: none;
+	color: #7f7666;
+}
